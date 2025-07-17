@@ -1,7 +1,7 @@
 {
   "domain": "ejemplo_sensor",
   "name": "Ejemplo Sensor Binario",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "documentation": "github.com/midomotica/mido-integracion_01",
   "requirements": [],
   "dependencies": [],
