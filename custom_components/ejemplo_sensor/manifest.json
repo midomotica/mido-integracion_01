@@ -1,1 +1,12 @@
+{
+  "domain": "ejemplo_sensor",
+  "name": "Ejemplo Sensor Binario",
+  "version": "1.0.0",
+  "documentation": "github.com/midomotica/mido-integracion_01",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@midomotica"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
 
