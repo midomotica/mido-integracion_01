@@ -1,1 +1,11 @@
+{
+  "name": "Ejemplo Sensor Binario",
+  "render_readme": true,
+  "domains": ["ejemplo_sensor"],
+  "homeassistant": "2023.0.0",
+  "country": "global",
+  "persistent_directory": "custom_components/ejemplo_sensor",
+  "zip_release": false,
+  "filename": "custom_components/ejemplo_sensor/manifest.json"
+}
 
